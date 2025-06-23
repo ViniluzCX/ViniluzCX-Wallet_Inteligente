@@ -81,7 +81,7 @@ Este contrato Solidity implementa uma **carteira Ethereum multifuncional com seg
 
 ## 📄 Licença
 
-MIT License
+[MIT License](https://github.com/ViniluzCX/ViniluzCX-Wallet_Inteligente/blob/main/license)
 
 ---
 
